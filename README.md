@@ -41,5 +41,3 @@ Using more advanced algorithms for matching the user's input to the pre-defined 
 Integrating natural language processing (NLP) techniques for better understanding of the user's input.
 Implementing a feedback system for users to rate the relevance of the answers provided by the chatbot.
 Call the chatGPT (Open AI APIs) to get a relevant answer that is not present in the Q&A dataset.
-Future Scope
-image
